@@ -1,0 +1,53 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPUYjjuDVretTxA45PPow1n",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/shiraishi1203/AI-_1/blob/main/Ai%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EC%BD%94%EB%9E%A9%EC%97%B0%EA%B2%B0\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "tfxIfdvu3vKU",
+        "outputId": "2869de34-e24b-439f-a73e-b95e77dc7bb7"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello!! my name is Jun\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"hello!! my name is Jun\")"
+      ]
+    }
+  ]
+}
